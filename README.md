@@ -12,3 +12,5 @@ Realizar una propuesta de análisis de un conjunto de datos, aplicando la metodo
 [Falta completar]
 ## Conclusiones
 [Falta completar]
+## Licencia de Uso:
+[Falta completar]
