@@ -5,7 +5,7 @@ Realizar una propuesta de análisis de un conjunto de datos, aplicando la metodo
 - Crear valor con la data.
 - Toma de decisiones basadas en data.
 ## Nombre de los alumnos participantes:
-- García Chávez, Nikole Scarlet
+- Espíritu Cueva, Renzo Andree
 - García Chávez, Nikole Scarlet
 - Guerrero Icochea, Nicolas Miguel 
 ## Descripción del conjunto de datos
