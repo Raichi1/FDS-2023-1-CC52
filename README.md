@@ -24,5 +24,7 @@ Realizar una propuesta de análisis de un conjunto de datos, aplicando la metodo
     Purchased Bike: Indica si el comprador compró la bicicleta o no. 
 ## Conclusiones
 [Falta completar]
+## Enlace del informe
+[LINK]
 ## Licencia de Uso:
 [Falta completar]
