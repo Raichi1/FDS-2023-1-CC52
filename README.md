@@ -4,6 +4,8 @@ Realizar una propuesta de análisis de un conjunto de datos, aplicando la metodo
 - Crear conocimiento útil con la data.
 - Crear valor con la data.
 - Toma de decisiones basadas en data.
+##Objetivo del negocio:
+El objetivo principal del negocio es identificar las características demográficas de los clientes que compran bicicletas para predecir qué tipo de clientes están más dispuestos a compran bicicletas. Con el propósito de dirigir las estrategias de marketing y el diseño de productos específicos para los diferentes segmentos de clientes que están más dispuestos a comprar y, de esta manera, poder vender más bicicletas y aumentar nuestras ganancias.  
 ## Nombre de los alumnos participantes:
 - Espíritu Cueva, Renzo Andree
 - García Chávez, Nikole Scarlet
