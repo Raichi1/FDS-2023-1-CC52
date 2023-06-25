@@ -27,6 +27,6 @@ El objetivo principal del negocio es identificar las características demográfi
 ## Conclusiones
 [Falta completar]
 ## Enlace del informe
-[LINK]
+https://upcedupe-my.sharepoint.com/:w:/g/personal/u20181b618_upc_edu_pe/EZvFyk69cW1BvRnB0H7UmPkBew40EftSOUtkS_mZ5h_6Rw?e=aZ23OA
 ## Licencia de Uso:
 [Falta completar]
