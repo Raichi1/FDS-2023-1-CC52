@@ -25,7 +25,21 @@ El objetivo principal del negocio es identificar las características demográfi
     Age: Edad del comprador. 
     Purchased Bike: Indica si el comprador compró la bicicleta o no. 
 ## Conclusiones
-[Falta completar]
+En conclusión, el principal objetivo del negocio es identificar las características demográficas de los clientes que compran bicicletas para predecir qué tipo de clientes están más dispuestos a adquirirlas. Esta información permitirá dirigir estrategias de marketing y diseñar productos específicos para cada segmento de clientes, con el objetivo de aumentar las ventas de bicicletas y maximizar las ganancias. 
+
+Para concluir, los resultados deseados por la empresa incluyen la identificación de los segmentos de clientes que compran bicicletas y la capacidad de predecir qué clientes son más propensos a realizar una compra. Estos resultados brindarán la oportunidad de enfocar las estrategias de marketing de manera más efectiva, adaptando los mensajes y productos a las preferencias de cada segmento de clientes. 
+
+La evidencia que presentamos anteriormente demuestra que los ingresos promedio son ligeramente mayores para los clientes que compraron una bicicleta en comparación con aquellos que no lo hicieron. Esto sugiere que los clientes con mayores ingresos pueden estar más inclinados a adquirir una bicicleta. 
+
+Asimismo, se observa que el estado civil del cliente también puede influir en los ingresos, ya que los clientes casados presentan un promedio de ingresos más alto en comparación con los solteros. Estos hallazgos son relevantes para segmentar y orientar las estrategias de marketing hacia diferentes grupos demográficos. 
+
+Además, se encontró que el promedio de hijos varía según el nivel educativo del cliente para aquellos que tienen hijos. Esta información puede ser valiosa para comprender mejor las necesidades y preferencias de los clientes con diferentes niveles educativos y adaptar las estrategias de marketing en consecuencia. 
+
+Por otro lado, se identificó que los clientes con ocupaciones de "Partial High School" tienen el promedio más alto de vehículos, mientras que aquellos con un "Graduate Degree" tienen el promedio más bajo. Estos datos permiten segmentar a los clientes según su ocupación y adaptar las estrategias de marketing a sus necesidades y preferencias. 
+
+Finalmente, se observó una diferencia en el promedio de edad entre los clientes propietarios y no propietarios de viviendas, siendo ligeramente mayor para los propietarios. Estos hallazgos proporcionan información relevante sobre las características demográficas de los diferentes grupos de clientes y pueden guiar las estrategias de marketing de acuerdo con sus perfiles. 
+
+En resumen, a través del análisis de datos utilizando la metodología CRISP-DM, se ha obtenido información valiosa sobre los clientes que compran bicicletas. Estos conocimientos permitirán dirigir estrategias de marketing más efectivas y personalizar los productos para satisfacer las necesidades y preferencias de los diferentes segmentos de clientes. Es importante destacar la importancia de perseverar y reflexionar en cada etapa del proyecto de Data Science para mejorar los resultados obtenidos y optimizar las decisiones tomadas. 
 ## Enlace del informe
 https://upcedupe-my.sharepoint.com/:w:/g/personal/u20181b618_upc_edu_pe/EZvFyk69cW1BvRnB0H7UmPkBew40EftSOUtkS_mZ5h_6Rw?e=aZ23OA
 ## Licencia de Uso:
